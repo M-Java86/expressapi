@@ -1,0 +1,25 @@
+{
+  "name": "expressapi",
+  "version": "0.0.1",
+  "description": "First time working with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "node",
+    "webserver"
+  ],
+  "author": "Michelle Owens",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-es6-template-engine": "^2.1.9",
+    "helmet": "^3.21.1"
+  }
+}
